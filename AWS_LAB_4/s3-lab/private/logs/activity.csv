@@ -1,0 +1,11 @@
+user_id,activity_type,timestamp,duration_minutes,device
+101,login,2025-11-03 08:15:22,0,desktop
+102,watch_video,2025-11-03 08:17:45,12,mobile
+103,read_article,2025-11-03 08:20:11,5,tablet
+101,logout,2025-11-03 08:30:00,0,desktop
+104,login,2025-11-03 09:00:05,0,mobile
+104,add_to_cart,2025-11-03 09:05:30,2,mobile
+104,purchase,2025-11-03 09:07:15,3,mobile
+105,login,2025-11-03 09:10:00,0,desktop
+105,comment_post,2025-11-03 09:15:42,4,desktop
+106,watch_video,2025-11-03 09:20:12,15,smart_tv
